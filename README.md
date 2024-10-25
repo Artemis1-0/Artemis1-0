@@ -6,7 +6,7 @@
 - 😄 Pronouns: i'm a guy, straight up.
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Artemis1-0)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Artemis1-0)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Artemis1-0&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
 
 <!---
 Artemis1-0/Artemis1-0 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
